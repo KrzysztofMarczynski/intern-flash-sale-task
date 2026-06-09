@@ -39,7 +39,7 @@ Stworzenie uproszczonej aplikacji do sprzedaży limitowanej puli biletów na pop
 * **Jak zacząć:** Kliknij zielony przycisk **"Use this template"** w prawym górnym rogu tego repozytorium, aby utworzyć własne, **prywatne** repozytorium na swoim koncie GitHub.
 * **Sposób dostarczenia:** Prześlij nam link do swojego wygenerowanego i uzupełnionego repozytorium. W wiadomości mailowej podamy Ci loginy kont GitHub, którym powinieneś nadać uprawnienia "Collaborator", abyśmy mogli przejrzeć Twój kod.
 * **Uruchomienie:** Koniecznie zaktualizuj plik `README.md` w swoim repozytorium dodając jasną, krótką instrukcję, jak uruchomić Twój projekt lokalnie (jak zainstalować zależności, odpalić bazę, zseedować początkowe dane itp.).
-* **Czas na wykonanie:** Proponujemy 7 dni od momentu otrzymania wiadomości. Jeśli potrzebujesz więcej czasu, daj nam znać.
+* **Czas na wykonanie:** Proponujemy 3 dni od momentu otrzymania wiadomości. Jeśli potrzebujesz więcej czasu, daj nam znać.
 
 W razie jakichkolwiek pytań technicznych lub wątpliwości dotyczących wymagań – śmiało pisz. Chętnie odpowiemy.
 
