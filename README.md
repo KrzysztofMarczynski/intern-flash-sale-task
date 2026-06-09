@@ -44,4 +44,4 @@ Stworzenie uproszczonej aplikacji do sprzedaży limitowanej puli biletów na pop
 W razie jakichkolwiek pytań technicznych lub wątpliwości dotyczących wymagań – śmiało pisz. Chętnie odpowiemy.
 
 Powodzenia!  
-**Zespół procforce**
+**Zespół Procforce**
