@@ -21,6 +21,11 @@ System rezerwacji biletów odporny na overbooking i problemy współbieżności.
 
 ## Uruchomienie
 
+## Wymagany
+
+Docker
+GIT
+
 ```bash
 git clone https://github.com/KrzysztofMarczynski/Flash_sale.git
 cd Flash_sale
