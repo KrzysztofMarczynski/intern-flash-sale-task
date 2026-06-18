@@ -19,14 +19,22 @@ System rezerwacji biletów odporny na overbooking i problemy współbieżności.
 - rate limiting,
 - test integracyjny równoległych rezerwacji.
 
-## Uruchomienie
-
 ## Wymagany
 
-Docker
-GIT
+Przed uruchomieniem projektu zainstaluj:
+
+* Docker Desktop
+* Git
+
+## Uruchomienie
 
 ```bash
 git clone https://github.com/KrzysztofMarczynski/Flash_sale.git
 cd Flash_sale
 docker compose up --build
+```
+
+Po zakończeniu inicjalizacji aplikacja będzie dostępna pod adresami:
+
+* Frontend: http://localhost:3001
+* Backend API: http://localhost:3000
