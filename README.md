@@ -30,7 +30,7 @@ Przed uruchomieniem projektu zainstaluj:
 
 ```bash
 git clone https://github.com/KrzysztofMarczynski/Flash_sale.git
-cd Flash_sale
+cd intern-flash-sale-task
 docker compose up --build
 ```
 
